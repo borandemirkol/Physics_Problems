@@ -19,5 +19,4 @@ $$s = \int_{0}^{t_0} |\vec{v}| dt = t_0 \sqrt{a^2\omega^2 + b^2}$$
 ## 3) Special Cases
 - **If $b = 0$:** The motion is a pure circle in the XY plane.
 - **If $\omega = 0$:** The motion is a straight line along the Z-axis.
-## 4) Interactive HTML
  
